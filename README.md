@@ -1,9 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
-### 
+
 <div>
   <div  align='center' height='50px'>&nbsp;I'm </div>
   <div align='center'>
@@ -14,21 +12,23 @@
 
 <br/>
 
-- 🔭 I’m currently working on [WinterTrails](https://github.com/kevykim/CapStoneProject)  
+## Bio
+
+🔭&nbsp;I’m currently working on [WinterTrails](https://github.com/kevykim/CapStone-Project)  
   
 
 <!-- - 🌱 I’m currently learning Hyperledger and Kubernetes   -->
   
 
-- ❓ Ask me about anything related to Javascript and React.  
+❓&nbsp;Ask me about anything related to Javascript and React.  
   
 
-- 🎱 I enjoy hiking, snowboarding, & gaming.  
+🎱&nbsp;I enjoy hiking, snowboarding, & gaming.  
   
 
 
 
-## Languages/Frameworks/Techs  
+## Languages/Frameworks/Tech  
 
 <div align="left"> 
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
