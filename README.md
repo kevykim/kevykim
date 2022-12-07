@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=js,react,redux,html,css" />
     </div>
     <div>
-    <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres" />
     </div>
     <div>
     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" />
