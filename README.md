@@ -12,48 +12,61 @@
 
 <br/>
 
-## 😄 Bio
+## <div align='center'> 😄 Bio </div>
 
-🔭&nbsp;I’m currently working on [WinterTrails](https://github.com/kevykim/CapStone-Project)  
+<div align='center'>
+  
+  🔭&nbsp;I’m currently working on [WinterTrails](https://github.com/kevykim/CapStone-Project)  
+  
+</div>
   
 
 <!-- - 🌱 I’m currently learning Hyperledger and Kubernetes   -->
   
 
-❓&nbsp;Ask me about anything related to Javascript and React.  
+<div align='center'>
   
-
+  ❓&nbsp;Ask me about anything related to Javascript and React.  
+  
+</div>
+  
+<div align='center'>
+  
 🎱&nbsp;I enjoy hiking, snowboarding, & gaming.  
   
+ </div>
 
 
 
-<div align='center'>💻 Languages/Frameworks/Tech</div>
+## <div align='center'>💻 Languages/Frameworks/Tech </div>
 
 <p>
   <a href="https://skillicons.dev">
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=js,react,redux,html,css" />
     </div>
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres" />
     </div>
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" />
     </div>
   </a>
 </p>
 
 
-## 📊 Github Stats  
+## <div align='center'> 📊 Github Stats  </div>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
+<div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
 
 
 
-## 💬 Connect with me  
+## <div align='center'> 💬 Connect with me  </div>
 
+<div align='center'>
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kebonkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-kim-a88429150/)
 [![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/kevin-kim-99)
-
+  
+</div>
