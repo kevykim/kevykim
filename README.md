@@ -28,17 +28,17 @@
 
 
 
-## 💻 Languages/Frameworks/Tech  
+##  💻 Languages/Frameworks/Tech  
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=js,react,redux,html,css" />
     </div>
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres" />
     </div>
-    <div>
+    <div align='center'>
     <img src="https://skillicons.dev/icons?i=heroku,git,docker,aws" />
     </div>
   </a>
@@ -47,7 +47,7 @@
 
 ## 📊 Github Stats  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
 
 
 
