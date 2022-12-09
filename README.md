@@ -13,6 +13,8 @@
 <br/>
 
 ## <div align='center'> 😄 Bio </div>
+<br/>
+
 
 <div align='center'>
   
@@ -35,10 +37,16 @@
 🎱&nbsp;I enjoy hiking, snowboarding, & gaming.  
   
  </div>
+ 
+<br/>
+
 
 
 
 ## <div align='center'>💻 Languages/Frameworks/Tech </div>
+
+ <br/>
+
 
 <p>
   <a href="https://skillicons.dev">
@@ -54,14 +62,21 @@
   </a>
 </p>
 
+ <br/>
+
 
 ## <div align='center'> 📊 Github Stats  </div>
+<br/>
+
 
 <div align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevykim&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
 
 
 ## <div align='center'> 💬 Connect with me  </div>
+<br/>
+
 
 <div align='center'>
   
