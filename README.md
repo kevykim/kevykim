@@ -23,7 +23,7 @@
 </div>
   
 
-<!-- - 🌱 I’m currently learning Hyperledger and Kubernetes   -->
+- 🌱 I’m currently learning TypeScript  
   
 
 <div align='center'>
