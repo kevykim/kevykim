@@ -22,9 +22,11 @@
   
 </div>
   
-
-- 🌱 I’m currently learning TypeScript  
+<div align='center'>
   
+🌱 I’m currently learning TypeScript.  
+
+</div>
 
 <div align='center'>
   
