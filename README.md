@@ -5,7 +5,7 @@
 <div>
   <div  align='center' height='50px'>&nbsp;I'm </div>
   <div align='center'>
-  <a href="https://git.io/typing-svg">&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=7000&color=3FF72C&width=75&lines=%3CKevin%2F%3E " alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg">&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=2000&color=3FF72C&width=75&lines=%3CKevin%2F%3E " alt="Typing SVG" /></a> 
   </div>
   <div align='center'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-stack software engineer 👋</div>
 </div>
