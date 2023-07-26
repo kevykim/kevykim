@@ -16,11 +16,7 @@
 ## <div align='center'> 😄 Bio </div>
 
 
-<div align='center'>
-  
-  🔭&nbsp;I’m currently working on [WinterTrails](https://github.com/kevykim/CapStone-Project)  
-  
-</div>
+
   
 <div align='center'>
   
@@ -51,7 +47,7 @@
 <div>
   <a href="https://skillicons.dev">
     <div align='center'>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,angular,vue,nextjs,tailwind" />
     </div>
     <div align='center'>
     <img src="https://skillicons.dev/icons?i=py,flask,express,nodejs,postgres,sqlite" />
